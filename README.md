@@ -1,14 +1,16 @@
 ---
 layout: home
-title: Just the Class
+title: Maths en Prépas
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Course
-  name: Just the Class
+  type: Cours
+  name: Maths en Prépas
 ---
 
-# Just the Class
+# Maths en prépas
+
+Maths en prépas est un site web dédié aux mathématiques en classes préparatoires. Il contient des cours, des séries d'exercices avec solutions et des sujets des concours corrigés dans une présentation simple mais moderne et efficace. Le site s'adapte au support utilisé pour la consultation. 
 
 Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
 
